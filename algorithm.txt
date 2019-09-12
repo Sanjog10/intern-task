@@ -1,0 +1,6 @@
+step 1:start
+step 2:Compute 2^1000 and convert it to string
+step 3:Take each digit from result and convert it to integer
+step 4:Add each digits of the result to find the sum of number 
+step 5: Display the sum
+step 6:Stop
